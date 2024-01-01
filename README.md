@@ -1,2 +1,2 @@
 # SQL_Projects
-Contains files &amp; folders related to SQL project for Data Analysis
+Contains files &amp; folders related to SQL projects for Data Analysis
