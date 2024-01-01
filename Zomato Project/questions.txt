@@ -1,0 +1,26 @@
+1. Total amount spent by each customer on Zomato.
+
+2. How many days each customer has visited Zomato?
+
+3. First product purchased by each customer.
+
+4. Most purchased item on menu and no. of times it was purchased by all customers.
+
+5. Favourite item of each customer.
+
+6. First item purchased by a customer after becoming gold member.
+
+7. Last item purchased by a customer before becoming gold member.
+
+8. Total orders and amount spent by each customer before becoming member.
+
+9. Each product has different reward points: 
+	For p1 1point/5Rs. *** For p2 5points/10Rs. *** For p3 1point/5Rs.
+	For 2 reward points, customer earns Rs.5 cashback.
+   Calculate points collected by each customer and product for which most points have been given till now.
+
+10. In the first year after joining gold membership, customer earns 5points/10Rs. on any purchase. What is the cashback in the first year after gold membership?
+
+11. Rank all the transactions by the customers.
+
+12. Rank the gold member transactions. For non-gold member transactions mark 'NA'.
