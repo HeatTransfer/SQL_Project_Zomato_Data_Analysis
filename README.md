@@ -4,7 +4,7 @@
 ✅We've analyzed the data using simple to complex SQL queries.
 <br>
 ✅The list of question we've tried to find answers of, are contained in 'questions.txt' file in the folder.
-<br>
+<br><br>
 🛠️<i><b>Concepts used:</b></i>
 1. aggregation(group by clause)
 2. sorting(order by clause)
